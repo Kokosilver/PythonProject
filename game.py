@@ -443,3 +443,5 @@ class Game:
             if p.usr_x <= bullet.x <= p.usr_x + p.usr_width:
                 if p.usr_y <= bullet.y <= p.usr_y + p.usr_height:
                     self.health -= 1
+
+#It`s my code :) 
